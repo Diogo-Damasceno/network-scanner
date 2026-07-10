@@ -9,7 +9,7 @@ description = "Scanner de rede inteligente: descoberta de hosts, portas, SO e re
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Diogo Damasceno", email = "dev.diogodamasceno@gmail.com" }]
+authors = [{ name = "Diogo Damasceno", email = "mitszukyo@gmail.com" }]
 keywords = ["security", "network", "scanner", "nmap", "cybersecurity"]
 dependencies = ["rich>=13"]
 
